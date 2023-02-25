@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I work for a fintech company.   
+💻 Mainly used technologies are Java, Spring, SpringBoot, RDBMS (Mysql, Maria, Oracle) and libraries based on them.   
 🌱 I’m currently learning React, NoSql, Node JS   
 ⚡ If I bored while studying Java, study new technology.   
 ✨ I usually exercise in the morning and study for an hour in the evening. Also, on weekends, I tend to study with my friends.
