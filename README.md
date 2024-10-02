@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 🔭 I work for a fintech company.   
 💻 Mainly used technologies are Java, Spring, SpringBoot, RDBMS (Mysql, Maria, Oracle) and libraries based on them.   
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjm6401)](https://github.com/anuraghazra/github-readme-stats)
