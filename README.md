@@ -3,7 +3,7 @@
 결제/정산 도메인에서의 경험을 가진 백엔드 개발자입니다.
 WeChat Pay·Alipay+ Open API를 연동하고,
 Spring Batch 정산 성능을 최적화한 경험이 있습니다.
-현재는 레거시 코드의 Hexagonal Architecture 전환과 AWS 인프라 구축을 진행하고 있습니다.
+현재는 레거시 코드의 Hexagonal Architecture 전환과 AI 에이전트 개발 및 AWS 인프라 구축을 진행하고 있습니다.
 
 ---
 
@@ -20,7 +20,7 @@ Spring Batch 정산 성능을 최적화한 경험이 있습니다.
 | 주제 | 핵심 |
 |------|------|
 | [부하 테스트로 API 병목을 찾고 개선한 과정](https://velog.io/@pjm6401) | API 응답 19초 → 0.2초 · k6 + Grafana 모니터링 |
-| [Refresh Token 디바이스 세션 관리 재설계](https://velog.io/@pjm6401) | HMAC-SHA256 해싱 · 무중단 마이그레이션 |
+| [Refresh Token 디바이스 세션 관리 재설계](https://velog.io/@pjm6401/냉비서-프로젝트-Refresh-Token-재설계) | 디바이스별 세션 격리 · 토큰 재사용 탐지 |
 | [Spring Batch ItemReader No-Offset 커스터마이징](https://velog.io/@pjm6401/Spring-Batch-커스텀-ItemReader) | O(n²) → O(n) · Read 성능 80%+ 개선 |
 | [Spring MVC vs WebFlux: 커널 레벨 동시성 분석](https://velog.io/@pjm6401/Spring-MVC-vs-WebFlux-동시성-처리) | epoll · Non-blocking I/O |
 
