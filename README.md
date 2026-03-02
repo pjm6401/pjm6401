@@ -21,7 +21,7 @@ Spring Batch 정산 성능을 최적화한 경험이 있습니다.
 |------|------|
 | [부하 테스트로 API 병목을 찾고 개선한 과정](https://velog.io/@pjm6401) | API 응답 19초 → 0.2초 · k6 + Grafana 모니터링 |
 | [Refresh Token 디바이스 세션 관리 재설계](https://velog.io/@pjm6401) | HMAC-SHA256 해싱 · 무중단 마이그레이션 |
-| [Spring Batch ItemReader No-Offset 커스터마이징](https://velog.io/@pjm6401) | O(n²) → O(n) · Read 성능 80%+ 개선 |
+| [Spring Batch ItemReader No-Offset 커스터마이징](https://velog.io/@pjm6401/Spring-Batch-커스텀-ItemReader) | O(n²) → O(n) · Read 성능 80%+ 개선 |
 | [Spring MVC vs WebFlux: 커널 레벨 동시성 분석](https://velog.io/@pjm6401/Spring-MVC-vs-WebFlux-동시성-처리) | epoll · Non-blocking I/O |
 
 #### 기술 스택
