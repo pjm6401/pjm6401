@@ -1,7 +1,7 @@
 ### 박정민 · Backend Developer
 
 결제/정산 도메인에서의 경험을 가진 백엔드 개발자입니다.
-PG사에서 WeChat Pay·Alipay+ Open API를 SDK 없이 직접 연동하고,
+WeChat Pay·Alipay+ Open API를직접 연동하고,
 Spring Batch 정산 성능을 최적화한 경험이 있습니다.
 현재는 레거시 코드의 Hexagonal Architecture 전환과 AWS 인프라 구축을 진행하고 있습니다.
 
