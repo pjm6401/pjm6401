@@ -12,7 +12,6 @@ Spring Batch 정산 성능을 최적화한 경험이 있습니다.
 | 프로젝트 | 설명 | 기술 스택 |
 |----------|------|-----------|
 | [냉비서 백엔드](https://github.com/pjm6401/naengbisuh) | AI 식품 분석 앱 · App Store & Google Play 출시 | Spring Boot, JPA, Gemini AI, PostgreSQL |
-| [Payment Platform](https://github.com/pjm6401/Payment-Platform-With-Kafka) | 이벤트 드리븐 결제 분석 플랫폼 | Spring Boot, Kafka, Redis, MSA |
 | [ItemReader](https://github.com/pjm6401/ItemReader) | Spring Batch No-Offset 커스텀 Reader | Spring Batch, Querydsl, JPA |
 
 #### 기술 블로그
